@@ -1,5 +1,9 @@
 [
   { "id": 1, "gameId": 1, "puntaje": 5, "comentario": "Muy bueno.", "email": "admin@pixelhoshi.com", "visible": true },
   { "id": 2, "gameId": 1, "puntaje": 4, "comentario": "Me gustó harto.", "email": "user@pixelhoshi.com", "visible": true },
-  { "id": 3, "gameId": 2, "puntaje": 5, "comentario": "Obra maestra.", "email": "user@pixelhoshi.com", "visible": true }
+  { "id": 5, "gameId": 2, "puntaje": 5, "comentario": "Genial, me gusto mucho.", "email": "user1@pixelhoshi.com", "visible": true },
+  { "id": 1, "gameId": 2, "puntaje": 3, "comentario": "Excelente juego", "email": "user2@pixelhoshi.com", "visible": true },
+  { "id": 2, "gameId": 2, "puntaje": 4, "comentario": "Lo jugaria otra vez", "email": "user3@pixelhoshi.com", "visible": true },
+  { "id": 6, "gameId": 2, "puntaje": 2, "comentario": "Ideal para jugar en familia!", "email": "user4@pixelhoshi.com", "visible": true },
+  { "id": 2, "gameId": 2, "puntaje": 1, "comentario": "No me aburri para nada en jugar", "email": "user5@pixelhoshi.com", "visible": true }
 ]
